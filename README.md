@@ -25,7 +25,7 @@
 
 ### 🎨 Front-end
 
-[![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind)](https://skillicons.dev)
 
 ### 🛠️ Outils
 
