@@ -16,9 +16,19 @@
 
 ---
 
-## 🧰 Stack technique
+## 🧰 Compétences
 
-[![Mes compétences](https://skillicons.dev/icons?i=php,symfony,mysql,html,css,js,ts,react,redux,tailwind,nodejs,git,github,figma,vscode&perline=8)](https://skillicons.dev)
+### ⚙️ Back-end
+
+[![Back-end](https://skillicons.dev/icons?i=php,symfony,nodejs,mysql)](https://skillicons.dev)
+
+### 🎨 Front-end
+
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind)](https://skillicons.dev)
+
+### 🛠️ Outils
+
+[![Outils](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
 ---
 
 ## 🚀 Projets phares
