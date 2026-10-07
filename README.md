@@ -46,7 +46,7 @@
 ![MAMP](https://img.shields.io/badge/MAMP-02749C?style=flat-square)
 ![Merise](https://img.shields.io/badge/Merise-MCD%20%2F%20MLD%20%2F%20MPD-555?style=flat-square)
 ![UML](https://img.shields.io/badge/UML-555?style=flat-square)
-
+[![Mes compétences](https://skillicons.dev/icons?i=php,symfony,mysql,html,css,js,ts,react,redux,tailwind,nodejs,git,github,figma,vscode&perline=8)](https://skillicons.dev)
 ---
 
 ## 🚀 Projets phares
