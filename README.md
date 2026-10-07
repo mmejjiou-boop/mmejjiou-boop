@@ -1,3 +1,4 @@
+![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:1e3a8a&height=180&section=header&text=Mohamed%20Amine&fontSize=42&fontColor=ffffff&animation=fadeIn)
 # Salut, moi c'est Mohamed Amine 👋
 
 ### Développeur Web en alternance · DWWM à École Coda · Orléans
