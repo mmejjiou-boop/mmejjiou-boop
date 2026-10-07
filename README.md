@@ -1,7 +1,8 @@
 ![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:1e3a8a&height=180&section=header&text=Mohamed%20Amine&fontSize=42&fontColor=ffffff&animation=fadeIn)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=600&lines=Je+recherche+une+alternance;Recrutez-moi+%21)](https://git.io/typing-svg)
 
-### Développeur Web en alternance · DWWM à École Coda · Orléans
+### Développeur Web · DWWM à École Coda · Orléans
 
 [![CV en ligne](https://img.shields.io/badge/Mon%20CV-en%20ligne-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mmejjiou-boop.github.io/MonCv/)
 ![Recherche alternance](https://img.shields.io/badge/Recherche-alternance-f59e0b?style=for-the-badge)
@@ -29,6 +30,7 @@
 ### 🛠️ Outils
 
 [![Outils](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+
 ---
 
 ## 🚀 Projets phares
@@ -84,15 +86,22 @@ Application de gestion de bibliothèque avec les entités **Lecteur**, **Livre**
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=mmejjiou-boop&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-## Petite blague
-![Blague](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
 ## 🐍 Mes contributions
 
 ![Serpent de contributions](https://raw.githubusercontent.com/mmejjiou-boop/mmejjiou-boop/output/github-snake-dark.svg)
 
+---
+
+## 😂 Petite blague
+
+![Blague](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+---
+
 ## 📫 Me contacter
 
 - 📄 CV & lettre de motivation : **[mmejjiou-boop.github.io/MonCv](https://mmejjiou-boop.github.io/MonCv/)**
-- 💼 Ouvert aux propositions d'**alternance en développement web** sur tout Orléans et son aglomération
+- 💼 Ouvert aux propositions d'**alternance en développement web** sur Orléans et son agglomération
 
 > *Chaque projet est une occasion d'apprendre quelque chose de nouveau.*
