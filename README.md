@@ -10,7 +10,6 @@
 ## 🧑‍💻 À propos
 
 - 🎓 Étudiant en **Développeur Web et Web Mobile (DWWM, niveau 5)** à **École Coda**
-- 🏢 Alternance chez **Montessori Store** (1 semaine école / 3 semaines entreprise)
 - 🛠️ Je construis surtout des applications **Symfony** de gestion, de l'analyse (Merise, UML) jusqu'à la mise en ligne
 - 📍 Basé à **Orléans**, ouvert aux opportunités en alternance dans le développement web
 
@@ -34,7 +33,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
@@ -73,7 +71,7 @@ Application de **suivi de candidatures** pour organiser sa recherche d'alternanc
 
 `Symfony 7.4` `Tailwind CSS` `SortableJS` `AssetMapper`
 
-### 🌙 [fushá · Apprendre l'Arabe](https://mmejjiou-boop.github.io/arabe/index.html)
+### 🌙 [fushá · Apprendre l'Arabe](https://mmejjiou-boop.github.io/fusha/index.html)
 
 Site d'apprentissage de **l'arabe pour francophones**.
 
@@ -107,6 +105,6 @@ Application de gestion de bibliothèque avec les entités **Lecteur**, **Livre**
 ## 📫 Me contacter
 
 - 📄 CV & lettre de motivation : **[mmejjiou-boop.github.io/MonCv](https://mmejjiou-boop.github.io/MonCv/)**
-- 💼 Ouvert aux propositions d'**alternance en développement web** autour d'Orléans
+- 💼 Ouvert aux propositions d'**alternance en développement web** sur tout Orléans et son aglomération
 
 > *Chaque projet est une occasion d'apprendre quelque chose de nouveau.*
