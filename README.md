@@ -89,9 +89,7 @@ Application de gestion de bibliothèque avec les entités **Lecteur**, **Livre**
 ## 🐍 Mes contributions
 
 ![Serpent de contributions](https://raw.githubusercontent.com/mmejjiou-boop/mmejjiou-boop/output/github-snake-dark.svg)
-## 🧊 Mes contributions en 3D
 
-![Contributions 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 ## 📫 Me contacter
 
 - 📄 CV & lettre de motivation : **[mmejjiou-boop.github.io/MonCv](https://mmejjiou-boop.github.io/MonCv/)**
