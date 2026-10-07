@@ -91,11 +91,7 @@ Application de gestion de bibliothèque avec les entités **Lecteur**, **Livre**
 
 ![Serpent de contributions](https://raw.githubusercontent.com/mmejjiou-boop/mmejjiou-boop/output/github-snake-dark.svg)
 
----
 
-## 😂 Petite blague
-
-![Blague](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 
 ---
 
