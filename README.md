@@ -84,6 +84,8 @@ Application de gestion de bibliothèque avec les entités **Lecteur**, **Livre**
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=mmejjiou-boop&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+## Petite blague
+![Blague](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
 ## 🐍 Mes contributions
 
 ![Serpent de contributions](https://raw.githubusercontent.com/mmejjiou-boop/mmejjiou-boop/output/github-snake-dark.svg)
