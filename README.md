@@ -1,5 +1,5 @@
 ![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:1e3a8a&height=180&section=header&text=Mohamed%20Amine&fontSize=42&fontColor=ffffff&animation=fadeIn)
-# Salut, moi c'est Mohamed Amine 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+Symfony+%F0%9F%9A%80;En+alternance+chez+Montessori+Store;Je+cherche+une+alternance+%C3%A0+Orl%C3%A9ans+%F0%9F%93%8D)](https://git.io/typing-svg)
 
 ### Développeur Web en alternance · DWWM à École Coda · Orléans
 
