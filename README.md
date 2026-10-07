@@ -18,34 +18,6 @@
 
 ## 🧰 Stack technique
 
-**Back-end**
-
-![PHP](https://img.shields.io/badge/PHP%208-777BB4?style=flat-square&logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony%207-000000?style=flat-square&logo=symfony&logoColor=white)
-![Doctrine](https://img.shields.io/badge/Doctrine%20ORM-FC6A31?style=flat-square&logo=doctrine&logoColor=white)
-![Twig](https://img.shields.io/badge/Twig-bacf29?style=flat-square&logo=symfony&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Front-end**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-
-**Outils & méthodes**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![MAMP](https://img.shields.io/badge/MAMP-02749C?style=flat-square)
-![Merise](https://img.shields.io/badge/Merise-MCD%20%2F%20MLD%20%2F%20MPD-555?style=flat-square)
-![UML](https://img.shields.io/badge/UML-555?style=flat-square)
 [![Mes compétences](https://skillicons.dev/icons?i=php,symfony,mysql,html,css,js,ts,react,redux,tailwind,nodejs,git,github,figma,vscode&perline=8)](https://skillicons.dev)
 ---
 
